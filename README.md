@@ -1,4 +1,7 @@
 # doshel
-Home Lab Setup
-Developing a home lab documentation for anyone to follow along
+<h1 align="center">Dirk Oshel Home Lab Doc</h1>
+
+<p align="left">
+  Developing a home lab documentation for anyone to follow along
+</p>
 
