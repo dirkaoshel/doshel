@@ -42,5 +42,25 @@
   <br>Restarted
 </p>
 <h3>Truenas setup</h3>
-
+<p>
+  <br>Accessed webpage from another device
+  <br>Logged in with Admin credentials
+  <br>Navigated to Storage
+  <br>Selected import pool*
+  <br>Used key to decrypt the drive
+  <br>Navigated to homepage
+  <br>Selected Applications
+  <br>Searched "Tailscale"
+  <br>Went through the steps to get Tailscale set up in tailnet
+  <br>Navigated back to Applications
+  <br>Searched "Jellyfin"
+  <br>Installed Jellyfin
+  <br>*This is not a typical Truenas experience but since this is an upgrade, I am just moving the drives that I had over to this one
+</p>
+<h3>To Do</h3>
+<ul>
+  <li>Add movie storage pool into Jellyfin</li>
+  <li>Setup security on applications</li>
+  <li>Implement firewall, probably OPNsense</li>
+</ul>
 
