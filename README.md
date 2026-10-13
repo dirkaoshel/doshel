@@ -58,7 +58,7 @@
   <br>
   <br>*This is not a typical Truenas experience but since this is an upgrade, I am just moving the drives that I had over to this one
 </p>
-<h3>To Do</h3>
+<h2>To Do</h2>
 <ul>
   <li>Add movie storage pool into Jellyfin</li>
   <li>Setup security on applications</li>
