@@ -43,7 +43,7 @@
 </p>
 <h3>Truenas setup</h3>
 <p>
-  <br>Accessed webpage from another device
+  Accessed webpage from another device
   <br>Logged in with Admin credentials
   <br>Navigated to Storage
   <br>Selected import pool*
