@@ -55,6 +55,7 @@
   <br>Navigated back to Applications
   <br>Searched "Jellyfin"
   <br>Installed Jellyfin
+  <br>
   <br>*This is not a typical Truenas experience but since this is an upgrade, I am just moving the drives that I had over to this one
 </p>
 <h3>To Do</h3>
